@@ -3,7 +3,7 @@
 
 # *** ISUE ***: should return the square of x
 def square():
-
+    print "awesome"
     return 0
 
 # *** ISUE ***: implement you function you like
