@@ -1,9 +1,9 @@
-***ISUE***: underline all headlines (abstract, results)
+***ISSUE***: underline all headlines (abstract, results)
 
 Abstract:
-***ISUE***: write a nice greeting for the beginning
-***ISUE***: write an even nicer greeting for the beginning
+***ISSUE***: write a nice greeting for the beginning
+***ISSUE***: write an even nicer greeting for the beginning
 
 Results:
-***ISUE***: make something up
+***ISSUE***: make something up
 
